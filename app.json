@@ -4,7 +4,7 @@
   "publisher": "Default publisher",
   "version": "1.0.0.0",
   "brief": "",
-  "description": "This extension is for workshops related to AL for Beginners",
+  "description": "",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -22,6 +22,5 @@
   ],
   "contextSensitiveHelpUrl": "https://TestProject.com/help/",
   "showMyCode": true,
-  "runtime": "7.0",
-  "features": ["TranslationFile"]
+  "runtime": "7.0"
 }

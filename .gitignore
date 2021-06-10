@@ -1,5 +1,12 @@
-.alpackages/
-.altemplates/
-.alcache/
-.vscode/
 *.app
+*.xlf
+.alpackages
+.alcache
+.altemplates
+.snapshots
+.vscode
+debug.log
+rad.json
+# app.json
+launch.json
+settings.json
