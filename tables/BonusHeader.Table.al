@@ -33,7 +33,7 @@ table 50101 "MNB Bonus Header"
             // Editable = true;
             Caption = 'Ending Date';
         }
-        field(5; Status; Enum "MNB Bonus Status")
+        field(6; Status; Enum "MNB Bonus Status")
         {
             DataClassification = CustomerContent;
             Caption = 'Status';
